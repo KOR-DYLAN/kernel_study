@@ -1,0 +1,9 @@
+.vscode/**
+
+u-boot/.vscode/**
+linux/.vscode/**
+buildroot/.vscode/**
+
+!u-boot/.vscode/c_cpp_properties.json
+!linux/.vscode/c_cpp_properties.json
+!buildroot/.vscode/c_cpp_properties.json
