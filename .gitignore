@@ -8,4 +8,6 @@ buildroot/.vscode/**
 !linux/.vscode/c_cpp_properties.json
 !buildroot/.vscode/c_cpp_properties.json
 
-build/**
+output/**
+boot/**
+*.img
